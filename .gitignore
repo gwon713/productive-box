@@ -1,6 +1,6 @@
 # node modules
 node_modules/
-
+memo.txt
 # log
 *.log
 *.swp
